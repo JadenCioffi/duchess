@@ -6,6 +6,15 @@
 
 1. A chess revolution.
 
+# Installation
+
+Create a virtual environment and install the dependencies listed in *requirements.txt*
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
 ## Credits
 
